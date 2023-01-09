@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cat
+  - Tree
+  - LeftEscapePlace
+  - RightEscapePlace
+  - TapSpawnedCat
+  - AutoSpawnedCat
+  - Ground
+  - Explosion
+  - Boss
+  - LeftTrigger
+  - RightTrigger
+  - CatsLevelUpgrade
+  - Enemy
+  - TapZone
+  - LevelController
+  - AreaForClick
+  - FxTemporaire
+  - MidLeftTrigger
+  - MidRightTrigger
+  - SurrenderButton
+  - TargetTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Cat
+  - Snowball
+  - Ground
+  - Toys
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
